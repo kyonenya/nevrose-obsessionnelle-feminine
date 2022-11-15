@@ -1,6 +1,6 @@
 - モーリス・ブーヴェ「女性の強迫神経症におけるペニス羨望の意識化の治療的影響」の日本語訳
     - [臨床的記述／既往歴](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/1-1_臨床的記述・既往歴.md)
-    - [家族状況](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/1-2_家族状況.md)
+    - [彼女の家族状況](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/1-2_彼女の家族状況.md)
     - [対立の段階〔分析の第一段階〕](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/2-1_対立の段階.md)
     - [分析の第二段階](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/2-2_分析の第二段階.md)
 - Maurice Bouvet « Incidences thérapeutiques de la prise de conscience de l'envie de pénis dans la névrose obsessionnelle féminine » の症例部分の部分訳
@@ -28,6 +28,8 @@
 > 「私は靴の修理屋で靴を直してもらいました。それから、青、白、赤の紙ちょうちんで飾られた舞台の上に登りますが、そこにいるのは、みんな男です——私の母は人ごみのなかにいて、私に見とれています」（[「対立の段階」](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/2-1_対立の段階.md)）
 
 > ファルスがある露出的な関係に関連しているのを、夢それ自体が示していますが、この露出的な関係は、ファルスを持っている者たち、彼女とともに舞台の上にいる他の男たちを前にして展開されるのではなく<!-- ——舞台の上の青、白、赤の紙ちょうちんは、言うも愚かなことですが、あらゆる種類のさまざまにみだらな背景のことを思い起こさせます—— -->〔…〕母の前で展開されているのです」（下: 382頁）
+
+> しかし、母に対するルネの不満のこの激しさこそが、彼女が母に持っていた大きな愛情の証だった。彼女は、母が父より高い階層に属していると思っていた。母は父より頭がよいと思っており、とくに母のエネルギー、性格、決断力、威厳に魅了されていた。母が稀にくつろいでいたときには、彼女はいわく言い難い喜びで満たされていた。しかし、これまでのところ、母を所有したいというはっきりと性愛化された欲望は問題になっていない。ルネは母ともっぱらサド・マゾヒズム的な次元で結ばれていた。するとそこでは母娘の同盟関係が生まれ、ここできわめて厳格に働いたので、あらゆる契約違反が極端に激しい動きを引き起こした。これは最近に至るまで一度も対象化されることはなかった。この結合関係に介入してくるようないかなる者も、死の願望〔souhaits de mort〕の対象となった。（[「彼女の家族状況」](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/1-2_彼女の家族状況.md)）
 
 > そこで、我々はこのような定式を手に入れます—— そもそもの欲望とは、「私は、彼女すなわち母が欲望するものでありたい」ということである。私がそれであるためには、私はさしあたり彼女の欲望の対象であるものを、破壊しなければなりません。
 > 
