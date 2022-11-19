@@ -1,5 +1,5 @@
 - モーリス・ブーヴェ「女性の強迫神経症におけるペニス羨望の意識化の治療的影響」の日本語訳
-    - [臨床的記述／既往歴](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/1-1_臨床的記述・既往歴.md)
+    - [臨床的記述・既往歴](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/1-1_臨床的記述・既往歴.md)
     - [彼女の家族状況](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/1-2_彼女の家族状況.md)
     - [対立の段階〔分析の第一段階〕](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/2-1_対立の段階.md)
     - [分析の第二段階](https://github.com/kyonenya/nevrose-obsessionnelle-feminine/blob/main/2-2_分析の第二段階.md)
