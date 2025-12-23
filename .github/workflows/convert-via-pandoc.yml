@@ -1,33 +1,42 @@
 name: Convert via Pandoc
 
-on: 
+on:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 env:
-  src_path: "[[:digit:]]*.md"
+  src_path: '[0-9]*.md'
   reference_file: reference.docx
 
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+
       - id: set_variables
         run: |
-            echo "::set-output name=src_files::$(printf '"%s" ' ${{ env.src_path }})" # expand path pattern with whitespace
-            echo "::set-output name=current_branch::${GITHUB_REF#refs/heads/}"
-            mkdir dist
+          echo "current_date=$(date +"%y%m%d")" >> $GITHUB_OUTPUT
+          echo "src_files=$(printf '"%s" ' ${{ env.src_path }})" >> $GITHUB_OUTPUT # expand path pattern with whitespace
+          mkdir dist
+
       - uses: docker://pandoc/core:latest
         with:
           args: >-
+            -s
+            --toc
+            --toc-depth=3
             --output=dist/${{ github.event.repository.name }}.docx
             --reference-doc=${{ env.reference_file }}
             ${{ steps.set_variables.outputs.src_files }}
+
       - uses: s0/git-publish-subdir-action@master
         env:
           REPO: self
-          BRANCH: ${{ steps.set_variables.outputs.current_branch }}_pandoc
+          BRANCH: ${{ github.ref_name }}_pandoc
           FOLDER: dist
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
